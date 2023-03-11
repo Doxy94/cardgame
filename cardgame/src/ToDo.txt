@@ -1,0 +1,26 @@
+#######
+#Rules#
+#######
+
+- ace is highest card / six is lowest card
+- clockwise turn --> player with lowest supercard initiates the game
+- 6 cards per player
+- 24 cards in the middle
+- 1 card-type is supertype (beats every other type)
+- higher card wins
+- 6 cards can be played per round
+- player with less then 6 cards draw until they have 6 cards
+- player can't beat cards = draw all cards played
+- first player without cards wins the game
+
+
+
+
+##############
+#Requirements#
+##############
+
+- 36 Cards (regular card-deck)
+- 4 types of cards (hearts, spades, diamonds, clubs)
+- 2 types of colors (red, black)
+- 9 different cards (ace, king, queen, jack, ten, nine, eight, seven, six) (optional extension to 52 cards down to two)
